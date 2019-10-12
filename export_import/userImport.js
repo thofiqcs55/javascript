@@ -1,0 +1,1 @@
+import { default as User, test1 } from './user.js';
